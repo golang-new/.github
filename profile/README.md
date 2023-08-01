@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://www.pngkit.com/png/detail/412-4127445_gopher-working-hard-to-move-packages-boxes-golang.png" alt="Gopher Working Hard To Move Packages/boxes - Golang Dep@pngkit.com" height="230">
+</p>
+
 ## Hi there 👋
 
 Welcome to Golang New, your [gonew](https://go.dev/blog/gonew) hub for high-quality and reusable GoLang project templates! 🚀 
