@@ -16,7 +16,7 @@ Our mission is to simplify project initiation by providing a collection of well-
 
 🌟 Community-Driven: We believe in the power of collaboration. Contribute your templates, share insights, and be part of our growing [golang-new template](https://github.com/golang-new) community!
 
-Getting Started:
+## Getting Started:
 
 🔍 Browse our repository and pick the template that fits your project needs.
 
