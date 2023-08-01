@@ -10,8 +10,6 @@ Our mission is to simplify project initiation by providing a collection of well-
 
 📦 Diverse Templates: From web applications to command-line tools, we offer a diverse range of templates tailored to various project types.
 
-🔒 Enhanced Security: Trust in the integrity of your dependencies with our Go module proxy integration, ensuring a secure development environment.
-
 🌟 Community-Driven: We believe in the power of collaboration. Contribute your templates, share insights, and be part of our growing [golang-new template](https://github.com/golang-new) community!
 
 Getting Started:
